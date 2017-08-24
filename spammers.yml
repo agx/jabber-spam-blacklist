@@ -1,3 +1,4 @@
+# -*- mode: yaml -*-
 spamhosts:
   - algebra20.de
   - dcgate.org.ua
@@ -23,3 +24,4 @@ spamhosts:
   - vsjmaxx.co
   - xjabber.org
   - xjabber.pro
+  - yif.fi
